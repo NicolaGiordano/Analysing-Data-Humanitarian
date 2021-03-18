@@ -1,1 +1,1 @@
-# AnalysingHumanitarianImpact
+Examples of analysis of datasets from various international development programmes processed with various programming langauges to describe and infer relationships. Mainly in R and Python (including its libraries)
